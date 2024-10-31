@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.controls.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.media.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.web.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.swing.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx.base.jar",
+        "c:\\Users\\Steve\\WeatherInformationApp\\lib\\javafx-swt.jar"
+    ]
+}

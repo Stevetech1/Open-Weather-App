@@ -1,0 +1,20 @@
+{
+    "type": "java",
+    "name": "Launch WeatherInformationAppWithoutAPI",
+    "request": "launch",
+    "mainClass": "WeatherInformationAppWithoutAPI",
+    "vmArgs": "--module-path \"${workspaceFolder}/lib\" --add-modules javafx.controls,javafx.fxml",
+    "configurations": [
+        
+
+
+
+        {
+            "type": "java",
+            "name": "WeatherInformationAppWithoutAPI",
+            "request": "launch",
+            "mainClass": "WeatherInformationAppWithoutAPI",
+            "projectName": "WeatherInformationApp_dca8958e"
+        }
+    ]
+}
